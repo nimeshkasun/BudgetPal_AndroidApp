@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BudgetPal</string>
+    <string name="title_activity_summary">BudgetPal - Summary</string>
+    <string name="title_activity_transactions">BudgetPal - Transactions</string>
+    <string name="title_activity_categories">BudgetPal - Categories</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+</resources>
